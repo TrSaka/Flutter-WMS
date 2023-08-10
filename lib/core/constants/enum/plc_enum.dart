@@ -1,0 +1,12 @@
+
+enum PLCStateEnum{
+  DEACTIVE,
+  CONNECTED,
+  DISCONNECTED,
+  FAILED,
+  NOTFOUND,
+}
+
+enum PLCFunctionEnum{
+  CLOSE_CONNECTION,
+}

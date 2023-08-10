@@ -1,0 +1,5 @@
+enum CreatePLCState{
+  PLC_STATELESS,
+  PLC_SUCCESS,
+  PLC_FAILED,
+}
